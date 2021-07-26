@@ -1,0 +1,60 @@
+{
+  "produtos" : [
+    {
+      "id": 1,
+      "name": "Top laço Jenny",
+      "description": "Top rosa claro com laço",
+      "image": "https://i.pinimg.com/originals/c3/fb/7d/c3fb7d72820dcb089534a5659768e021.jpg",
+      "price": 101.99
+    },
+    {
+      "id": 2,
+      "name": "Conjunto casaco e saia",
+      "description": "Conjunto cinza com estampa xadrez de casaco e saia",
+      "image": "https://img-9gag-fun.9cache.com/photo/a9R3WK6_460s.jpg",
+      "price": 156.93
+    },
+    {
+      "id": 3,
+      "name": "Casaco Lisa",
+      "description": "Casaco cinza com bordas brancas",
+      "image": "https://capricho.abril.com.br/wp-content/uploads/2021/05/Inspirac%CC%A7a%CC%83o-de-looks-Lisa-BLACKPINK.jpg?quality=85&strip=info&w=650",
+      "price": 180.99
+    },
+    {
+      "id": 4,
+      "name": "Blusa de frio Lisa",
+      "description": "Blusa de frio laranja com detalhes em branco",
+      "image": "https://capricho.abril.com.br/wp-content/uploads/2021/05/LISA-BLACKPINK-KPOP.jpg?quality=85&strip=info&w=650",
+      "price": 210.45
+    },
+    {
+      "id": 5,
+      "name": "Conjunto duas peças",
+      "description": "Conjunto prateado de top e saia",
+      "image": "https://akns-images.eonline.com/eol_images/Entire_Site/2019315/rs_600x600-190415001941-e-asia-most-followed-k-pop-idols-ig-thumbnail.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+      "price": 400.80
+    },
+    {
+      "id": 6,
+      "name": "Saia estampada Rosé",
+      "description": "Saia com estampa cor de rosa",
+      "image": "http://pm1.narvii.com/7666/8767c2ffe7ca828dfb5ac0eec35664cab2ff4575r1-750-851v2_uhq.jpg",
+      "price": 230.30
+    },
+    {
+      "id": 7,
+      "name": "Saia preta",
+      "description": "Saia preta com cinto",
+      "image": "https://i0.wp.com/blackpinkupdate.com/wp-content/uploads/2018/10/cover-BLACKPINK-Jisoo-ADEKUVER-Instagram.jpg?fit=730%2C835&ssl=1",
+      "price": 140.27
+    },
+    {
+      "id": 8,
+      "name": "Cardigan cinza",
+      "description": "Cardigan simples cinza",
+      "image": "https://kpopchingu.com/wp-content/uploads/2019/12/1-8-820x1024.jpg",
+      "price": 101.45
+    }
+  ]
+}
